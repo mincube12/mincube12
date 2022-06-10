@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px">Hello, World!
+# Hello, World!
 ![Hi](./Hi.png)  
 ###### I'm Raccoon, not Raccoon Dog
 ---
